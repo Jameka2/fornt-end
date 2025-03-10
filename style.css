@@ -1,5 +1,5 @@
 .x{
-  color: black;
+  color: rgb(206, 8, 8);
 }
 
 .y{
@@ -8,5 +8,10 @@
 
 .z{
     color: forestgreen;
+}
+
+.table  ,td, tr, th{
+  border: 2px solid rgb(190, 174, 174)  ;
+  border-collapse: separate ;
 }
 
